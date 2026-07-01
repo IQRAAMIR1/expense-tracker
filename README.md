@@ -181,15 +181,33 @@ VITE_CLOUDINARY_UPLOAD_PRESET=
 
 ## 📸 Screenshots
 
-Add screenshots here after deployment.
+### 🏠 Landing Page
 
-Example:
+![Landing Page 1](screenshots/landing-page1.png)
 
-* Landing Page
-* Login Page
-* Employee Dashboard
-* Accountant Dashboard
-* Admin Dashboard
+![Landing Page 2](screenshots/landing-page2.png)
+
+### 📝 Register Company
+
+![Register Company](screenshots/register-company.png)
+
+### 🤝 Join Company
+
+![Join Company](screenshots/join-company.png)
+
+### 👤 Employee Dashboard
+
+![Employee Dashboard](screenshots/employee-dashboard.png)
+
+### 💼 Accountant Dashboard
+
+![Accountant Dashboard](screenshots/accountant-dashboard.png)
+
+### 👑 Admin Dashboard
+
+![Admin Dashboard](screenshots/admin-dashboard.png)
+![Admin Dashboard2](screenshots/admin-dashboard2.png)
+
 
 ---
 
